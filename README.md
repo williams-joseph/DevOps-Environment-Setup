@@ -31,6 +31,8 @@ This is a step-by-step outline for the environment setup mini-project, which is 
 *Installed Visual Studio Code as my text editor for writing and managing code.*
 
 
+---
+
 
 - **Git** – Version control
 
@@ -49,14 +51,17 @@ This is a step-by-step outline for the environment setup mini-project, which is 
 
 
 *Created a GitHub account to host repositories.*
+
+---
+
   
 - [x] AWS Account – Registered and ready
 
 
-![GitHub Account Created](screenshots/github_account.png)
+![AWS Account Created](screenshots/AWS_account.png)
 
 
-*Installed Git for version control.*
+*Sucessfully created an AWS account.*
 
 
 
