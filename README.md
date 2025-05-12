@@ -58,12 +58,5 @@ This is a step-by-step outline for the environment setup mini-project, which is 
 
 *Installed Git for version control.*
 
----
 
-## Installation Steps
 
-### 1. Git
-```bash
-sudo apt update  
-sudo apt install git  
-git --version
